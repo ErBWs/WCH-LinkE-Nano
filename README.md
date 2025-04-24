@@ -1,5 +1,8 @@
 # WCH-LinkE-Nano
+
  自制WCH-LinkE
+
+![](0.Docs/1.png)
 
 ## 使用教程
 
